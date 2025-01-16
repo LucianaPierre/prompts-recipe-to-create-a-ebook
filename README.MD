@@ -1,3 +1,4 @@
+https://github.com/LucianaPierre/prompts-recipe-to-create-a-ebook/raw/refs/heads/main/assets/Ebook_Capa.bmp
 
 # Projeto EBOOK Gerado por I.A.s
 
